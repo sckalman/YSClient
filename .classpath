@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="/home/sc/workspace/YSClient/lib/org.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/sc/workspace/YSClient/lib/slf4j-jdk14-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/sc/workspace/YSClient/lib/mina-core-2.0.0-RC1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/sc/workspace/YSClient/lib/mina-example-2.0.0-RC1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/sc/workspace/YSClient/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
